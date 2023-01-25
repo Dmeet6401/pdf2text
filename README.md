@@ -72,7 +72,7 @@ will generate output.txt file in your current working directory.
 
 Piyush Vaghela - [@Dmeet6401](https://twitter.com/@Dmeet6401) - desai.meet06@gmail.com@gmail.com
 
-Project Link -  [github.com/ipiyushvaghela/ImageAugmentation](https://github.com/ipiyushvaghela/pdf2text.git)
+Project Link -  [github.com/Dmeet6401/pdf2text.git](https://github.com/Dmeet6401/pdf2text.git)
 
 ## Acknowledgments
 Special thanks to [zoumdatascience](https://github.com/zoumdatascience/OCR).
