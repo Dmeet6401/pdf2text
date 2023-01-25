@@ -70,7 +70,7 @@ will generate output.txt file in your current working directory.
 
 ## Contact
 
-Piyush Vaghela - [@ipiyushvaghela](https://twitter.com/ipiyushvaghela) - ipiyushvaghela@gmail.com
+Piyush Vaghela - [@Dmeet6401](https://twitter.com/@Dmeet6401) - desai.meet06@gmail.com@gmail.com
 
 Project Link -  [github.com/ipiyushvaghela/ImageAugmentation](https://github.com/ipiyushvaghela/pdf2text.git)
 
