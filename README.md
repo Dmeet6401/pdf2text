@@ -70,7 +70,8 @@ will generate output.txt file in your current working directory.
 
 ## Contact
 
-Piyush Vaghela - [@Dmeet6401](https://twitter.com/@Dmeet6401) - [email](desai.meet06@gmail.com)
+Meet Desai - [@Dmeet6401](https://twitter.com/@Dmeet6401)   
+Email - [desai.meet06@gmail.com](desai.meet06@gmail.com)
 
 Project Link -  [github.com/Dmeet6401/pdf2text.git](https://github.com/Dmeet6401/pdf2text.git)
 
